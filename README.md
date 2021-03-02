@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on friday userbot
 - 🌱 I’m currently learning python
-- 💬 Currently I'm noob 
+- 💬 I'm noob so please don't expect much 😅😅
 - 📫 Contact on Telegram @meisnub
 - ⚡ Fun fact: A bug now is a feature later
 
