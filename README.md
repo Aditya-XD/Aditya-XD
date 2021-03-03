@@ -1,9 +1,13 @@
-### Hi there I am Aditya👋
+###           **Hi there I am Aditya**
 
 
-- 🔭 I’m currently working on friday userbot
-- 🌱 I’m currently learning python
-- 💬 I'm noob so please don't expect much 😅😅
+
+
+
+
+- 🔭 I’m currently working on **friday and other bots**
+- 🌱 I’m currently learning nothing 😝😝
+- 💬 **I'm noob**
 - 📫 Contact on Telegram @meisnub
 - ⚡ Fun fact: A bug now is a feature later
 
