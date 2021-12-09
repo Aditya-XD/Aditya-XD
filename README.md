@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **friday and other bots**
 - 🌱 I’m currently learning nothing 😝😝
 - 💬 **I'm noob**
-- 📫 Contact on Telegram @meisnub
+- 📫 contact at 4DITY4XD@gmail.com
 - ⚡ Fun fact: A bug now is a feature later
 
 
