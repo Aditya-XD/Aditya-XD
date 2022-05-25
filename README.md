@@ -1,4 +1,4 @@
-###           **Hi there I am Aditya**
+###           **Hey there I am Aditya**
 
 
 
@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on **friday and other bots**
-- 🌱 I’m currently learning nothing 😝😝
-- 💬 **I'm noob**
+- 🌱 I’m currently learning python
+- 💬 **Just a beginner**
 - 📫 contact at 4DITY4XD@gmail.com
 - ⚡ Fun fact: A bug now is a feature later
 
