@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **friday and other bots**
+- 🔭 working on **Nothing**
 - 🌱 I’m currently learning python
 - 💬 **Just a beginner**
-- 📫 contact at 4DITY4XD@gmail.com
-- ⚡ Fun fact: A bug now is a feature later
+- 📫 contact at 4DITY4XD@gmail.com or @ADITY4_XD on telegram
+- ⚡ Fun fact: Every body reads Fun Facts
 
 
 My stats: 
