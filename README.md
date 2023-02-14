@@ -8,7 +8,7 @@
 - 🔭 working on **Nothing**
 - 🌱 I’m currently learning python
 - 💬 **Just a beginner**
-- 📫 contact at 4DITY4XD@gmail.com or @ADITY4_XD on telegram
+- 📫 contact at 4DITY4XD@gmail.com or @ADITY4_XDD on telegram
 - ⚡ Fun fact: Every body reads Fun Facts
 
 
