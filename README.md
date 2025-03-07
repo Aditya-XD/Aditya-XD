@@ -5,11 +5,9 @@
 
 
 
-- 🔭 working on **Nothing**
-- 🌱 I’m currently learning python
+- 🔭 working on ......
+- 🌱 I’m currently learning
 - 💬 **Just a beginner**
-- 📫 contact at 4DITY4XD@gmail.com or @ADITY4_XDD on telegram
-- ⚡ Fun fact: Every body reads Fun Facts
 
 
 My stats: 
